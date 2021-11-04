@@ -1,0 +1,7 @@
+  //Message AutoHide Script Start Here
+  
+  $(document).ready(function(){
+    $('.class_name/#id_name').fadeOut(5000);
+  });
+  
+  //Message AutoHide Script End Here
